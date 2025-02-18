@@ -12,7 +12,8 @@ https://github.com/snuailab/LinearActuator/blob/main/target_image.jpeg
 3. pip install pyyaml
 4. pip install pyserial
 
-
+## 사전설정(포트접근허가)
+linux : sudo chmod 777 /dev/ttyACM0
 
 ## 실행방법
 python3 GUI.py
